@@ -1,17 +1,26 @@
 # Applied Statistics 
 
 The repository contains two Jupyter notebooks:     
-1. tasks.ipynb    
-2. project.ipynb        
+- tasks.ipynb    
+- project.ipynb        
 
 <br>
 
-1. tasks.ipynb is consisted of four tasks:    
+tasks.ipynb is consisted of four tasks:    
 
-    - Permutations and Combinations     
-    - numpy's Normal Distribution       
-    - t-Test Calculation     
-    - ANOVA      
+1. Permutations and Combinations     
+2. numpy's Normal Distribution       
+3. t-Test Calculation     
+4. ANOVA      
+
+<br>
+
+### 1. Permutations and Combinations
+### 2. numpy's Normal Distribution   
+### 3. t-Test Calculation
+### 4. ANOVA
+
+
 
 
 ### Technologies
