@@ -32,4 +32,6 @@ tasks.ipynb is consisted of four tasks:
 ### Purpose
 
 ### Sources
-<https://www.markdownguide.org/basic-syntax/#paragraphs-1>
+<https://www.markdownguide.org/basic-syntax/#paragraphs-1>   
+https://platform.ict-tex.eu/course/section.php?id=468    
+https://comics.town/@rooniecomics/111829215224753834    
