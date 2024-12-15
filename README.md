@@ -4,6 +4,9 @@ The repository contains two Jupyter notebooks:
 - tasks.ipynb    
 - project.ipynb        
 
+
+![alt text](rabbit_comic.jpg)     
+
 <br>
 
 tasks.ipynb is consisted of four tasks:    
@@ -13,6 +16,7 @@ tasks.ipynb is consisted of four tasks:
 3. t-Test Calculation     
 4. ANOVA      
 
+  
 <br>
 
 ### 1. Permutations and Combinations
@@ -20,7 +24,8 @@ tasks.ipynb is consisted of four tasks:
 ### 3. t-Test Calculation
 ### 4. ANOVA
 
-
+![alt text](anova1.png)    
+ 
 
 
 ### Technologies
