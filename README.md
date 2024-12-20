@@ -50,5 +50,5 @@ pip install -r requirements.txt
 3. GitHub will automatically create and launch a Codespace
 4. Open the notebook `notebook.ipynb` and run it directly in the browser
 
-![alt text](img/rabbit_comic.jpg)     
+![probability comic](img/rabbit_comic.jpg)     
 
