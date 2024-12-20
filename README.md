@@ -1,11 +1,19 @@
 # Applied Statistics 
 
-The repository contains two Jupyter notebooks:     
-- tasks.ipynb    
-- project.ipynb        
+The repository contains two Jupyter notebooks: `project.ipynb` and `tasks.ipynb` that include Python code in order to perform statistical analysis. 
+The covered topics include:
+
+  * Using `numpy`, `math`, `itertools`, `random` Python libraries to gain insight into statistical concepts of permutations and combinations
+  * Test data normality using `numpy.random.normal()`  and Shapiro-Wilk test 
+  * Compare two sets of data and their means by performing a t-test using `scipy` library
+  * Understand how to perform ANOVA statistical test to compare more than two sets of values using `scipy`
+  * Gain insight into concept of statistical errors by using an example of the Type II error while performing ANOVA test 
+  * Visualise the outcomes of performed analysis with `matplotlib` and `seaborn`
 
 
-![alt text](img\rabbit_comic.jpg)     
+
+![alt text](img\rabbit_comic.jpg)   
+  
 
 <br>
 
