@@ -11,7 +11,7 @@ The covered topics include:
   * Gain insight into concept of statistical errors by using an example of the Type II error while performing ANOVA test 
   * Visualise the outcomes of performed analysis with `matplotlib` and `seaborn`
 
-## Running the code
+## Run the code
 This notebook can be run in two ways:
 1.	On the local machine using [Visual Studio Code](https://code.visualstudio.com/) and [Anaconda](https://www.anaconda.com/download/success)
 2.	Online using [Github Codespaces](https://github.com/codespaces)   
@@ -50,10 +50,5 @@ pip install -r requirements.txt
 3. GitHub will automatically create and launch a Codespace
 4. Open the notebook `notebook.ipynb` and run it directly in the browser
 
-![alt text](img/rabbit_comic.jpg)   
-![alt text](img\anova1.png)    
+![alt text](img/rabbit_comic.jpg)     
 
-## Sources
-<https://www.markdownguide.org/basic-syntax/#paragraphs-1>   
-https://platform.ict-tex.eu/course/section.php?id=468    
-https://comics.town/@rooniecomics/111829215224753834    
